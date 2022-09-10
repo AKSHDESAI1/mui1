@@ -14,7 +14,6 @@ import NavigationIcon from '@mui/icons-material/Navigation';
 
 import Checkbox from '@mui/material/Checkbox';
 import { DeleteForeverOutlined } from '@mui/icons-material';
-import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 
 import Radio from '@mui/material/Radio';
